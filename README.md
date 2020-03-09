@@ -16,12 +16,12 @@ This repository is for markdown practice
 !
 [image description]
 (url of image)<br>
-![My image](/최성훈고객님 증명.jpg)
+![My image]('/최성훈고객님 증명.jpg')
 
 **heading** <br>
 The number of '#' mean heading.
 ex) Two of '#' mean h2.
 
 **Task lists** <br>
-[] Markdown practice
+[] Markdown practice <br>
 [x] writing
