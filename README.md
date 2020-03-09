@@ -18,7 +18,7 @@ This repository is for markdown practice
 (url of image)
 ![My image](/최성훈고객님 증명.jpg)
 
-**heading**
+**heading** <br>
 The number of '#' mean heading.
 ex) Two of '#' mean h2.
 
