@@ -16,5 +16,6 @@ This repository is for markdown practice
 !
 [image description]
 (url of image)
+![My image](https://github.com/LChoiSH/markdown_practice/edit/master/최성훈고객님 증명.jpg)
 
 
