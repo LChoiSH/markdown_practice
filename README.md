@@ -15,7 +15,7 @@ This repository is for markdown practice
 **Image** <br>
 !
 [image description]
-(url of image)
+(url of image)<br>
 ![My image](/최성훈고객님 증명.jpg)
 
 **heading** <br>
