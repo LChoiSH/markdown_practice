@@ -7,5 +7,5 @@ This is for lists.
  
 * This is
 * unordered lists.
- * With just one more space,
- * you can put next lists.
+  * With just two more spaces,
+  * you can put next lists.
