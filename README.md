@@ -24,7 +24,7 @@ ex) Two of '#' mean h2.
 
 **Task lists** <br>
 - [ ] Markdown practice <br>
-- [ x ] writing
+- [x] writing
 
 **link** <br>
 [GitHub](http://github.com)
