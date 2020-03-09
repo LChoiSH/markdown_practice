@@ -12,7 +12,7 @@ This repository is for markdown practice
   * With just two more spaces,
   * you can put next lists.
 
-**Image**
+**Image** \n
 !
 [image description]
 (url of image)
