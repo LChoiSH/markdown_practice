@@ -22,3 +22,6 @@ This repository is for markdown practice
 The number of '#' mean heading.
 ex) Two of '#' mean h2.
 
+**Task lists** <br>
+[] Markdown practice
+[x] writing
