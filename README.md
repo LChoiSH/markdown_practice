@@ -12,10 +12,10 @@ This repository is for markdown practice
   * With just two more spaces,
   * you can put next lists.
 
-**Image**    \n  
-!
-[image description]
-(url of image)
+**Image** 
+\n!
+\n[image description]
+\n(url of image)
 ![My image](/최성훈고객님 증명.jpg)
 
 **heading**
